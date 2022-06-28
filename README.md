@@ -62,7 +62,7 @@ Click here to > **[Sign Up](https://upcloud.com/signup/?promo=8X94J9)**
 ## Installation
 1. Download autoscript
 ```bash
-wget 
+wget https://raw.githubusercontent.com/skynetcenter/meta-vpn/main/autoscript.sh
 ```
 
 2. Execute and run autoscript
